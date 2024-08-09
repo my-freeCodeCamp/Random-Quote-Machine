@@ -51,6 +51,7 @@ function App() {
               marginRight: "10px",
               transition,
             }}
+            target="_blank"
           >
             <FaTwitter color="white" />
           </a>
@@ -61,6 +62,7 @@ function App() {
               marginRight: "10px",
               transition,
             }}
+            target="_blank"
           >
             <FaTumblr color="white"/>
           </a>
