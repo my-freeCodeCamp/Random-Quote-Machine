@@ -56,7 +56,6 @@ function App() {
           </a>
           <a
             href={`https://www.tumblr.com/`}
-            id="tweet-quote"
             style={{
               backgroundColor: color,
               marginRight: "10px",
