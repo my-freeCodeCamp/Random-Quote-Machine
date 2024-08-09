@@ -54,6 +54,17 @@ function App() {
           >
             <FaTwitter color="white" />
           </a>
+          <a
+            href={`https://www.tumblr.com/`}
+            id="tweet-quote"
+            style={{
+              backgroundColor: color,
+              marginRight: "10px",
+              transition,
+            }}
+          >
+            <FaTumblr color="white"/>
+          </a>
           <button
             id="new-quote"
             onClick={changeQuote}
